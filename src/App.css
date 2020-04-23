@@ -40,5 +40,6 @@
 .code {
   background-color: #ffffff;
   color: black;
+  padding: 5px;
   border-radius: 10px;
 }
